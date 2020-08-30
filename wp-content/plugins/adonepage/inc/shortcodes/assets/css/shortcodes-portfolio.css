@@ -1,0 +1,212 @@
+/*
+File: shortcodes-portfolio.php
+Description: Shortocodes Functions
+Plugin: ADTHEME SHORTCODES
+Author: Ad-theme.com
+*/
+.adtheme-shortcodes-portfolio #info {
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;				
+	background:#fcf8e3;
+	border:1px solid  #fbeed5;
+	width:95%;
+	max-width:900px;
+	margin:0 auto 40px auto;
+	font-family:arial;
+	font-size:12px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+.adtheme-shortcodes-portfolio #info .info-wrapper {
+	padding:10px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+}
+	
+.adtheme-shortcodes-portfolio #info a {
+	color:#c09853;
+	text-decoration:none;
+}
+	
+.adtheme-shortcodes-portfolio #info p {
+	margin:5px 0 0 0;
+}
+.adtheme-shortcodes-portfolio .container {
+	-webkit-transition: all 1s ease;
+  	-moz-transition: all 1s ease;
+  	-o-transition: all 1s ease;
+  	transition: all 1s ease;	
+}
+ 
+.adtheme-shortcodes-portfolio #filters {
+	margin:3% 0 4% 0;
+	padding:0;
+	list-style:none;
+}
+.adtheme-shortcodes-portfolio #filters li {
+	display:inline-block;
+}
+	
+.adtheme-shortcodes-portfolio #filters li span {
+	display: block;
+	padding:5px 20px;		
+	text-decoration:none;
+	cursor: pointer;
+}
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	width:23%;
+	display:none;
+	float:left;
+	overflow:hidden;
+}
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio.col_1_6 {
+	width:16.6%;
+}
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio.col_1_5 {
+	width:20%;
+}
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio.col_1_4 {
+	width:25%;
+}
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio.col_1_3 {
+	width:33.3%;
+}
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio.col_1_2 {
+	width:50%;
+}
+.adtheme-shortcodes-portfolio .portfolio-wrapper {
+	overflow:hidden;
+	position: relative !important;
+	background: #666;
+	cursor:pointer;
+}
+.adtheme-shortcodes-portfolio .portfolio img {
+	max-width:100%;
+	position: relative;
+}
+	
+.adtheme-shortcodes-portfolio .portfolio .label {
+	position: absolute;
+	width: 100%;
+	height:auto;
+	bottom:-180px;
+	display: block!important;
+	
+    white-space: normal!important;
+}
+.adtheme-shortcodes-portfolio .portfolio .label-bg {
+	width: 100%;
+	height:100%;
+	position: absolute;
+	top:0;
+	left:0;
+}
+	
+.adtheme-shortcodes-portfolio .portfolio .label-text {
+	position: relative;
+	z-index:500;
+	padding:20px;
+}
+			
+.adtheme-shortcodes-portfolio .portfolio .text-category {
+	display:block;
+}
+/* #Tablet (Portrait) 
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+.adtheme-shortcodes-portfolio .container {
+		width: 768px; 
+	}
+}
+/*  #Mobile (Portrait) - Note: Design for a width of 320px 
+@media only screen and (max-width: 767px) {
+.adtheme-shortcodes-portfolio .container { 
+	width: 100%; 
+}
+	
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio {
+	width:100%;
+	margin:1%;
+}		
+.adtheme-shortcodes-portfolio #ads {
+		display:none;
+	}
+}
+@media (max-device-width: 768px) and (orientation: portrait) {
+.adtheme-shortcodes-portfolio .container { 
+	width: 100%; 
+}
+	
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio {
+	width:100%!important;
+}		
+	
+}
+@media (max-device-width: 800px) and (orientation: portrait) {
+.adtheme-shortcodes-portfolio .container { 
+	width: 95%; 
+}
+	
+.adtheme-shortcodes-portfolio #portfoliolist .portfolio {
+	width:48%;
+	margin:1%;
+}		
+	
+}
+/* #Mobile (Landscape) - Note: Design for a width of 480px 
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+/*
+.adtheme-shortcodes-portfolio .container {
+		width: 70%;
+	}
+	
+.adtheme-shortcodes-portfolio #ads {
+		display:none;
+	}
+	
+}
+/* #Clearing */
+/* Self Clearing Goodness */
+.adtheme-shortcodes-portfolio .container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+.adtheme-shortcodes-portfolio .clearfix:before,
+.adtheme-shortcodes-portfolio .clearfix:after,
+.adtheme-shortcodes-portfolio .row:before,
+.adtheme-shortcodes-portfolio .row:after {
+  content: '\0020';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0; }
+.adtheme-shortcodes-portfolio .row:after,
+.adtheme-shortcodes-portfolio .clearfix:after {
+  clear: both; }
+.adtheme-shortcodes-portfolio .row,
+.adtheme-shortcodes-portfolio .clearfix {
+  zoom: 1; }
+.adtheme-shortcodes-portfolio .clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+.adtheme-shortcodes-portfolio .text {
+	display:block;
+	font-size:12px;
+}
+.adtheme-shortcodes-portfolio .label-text {
+	font-size:14px;
+}
+.adtheme-shortcodes-portfolio .category-name, .adtheme-shortcodes-portfolio .date {
+	font-size:11px;
+}
+.adclear {
+	clear:both;
+}

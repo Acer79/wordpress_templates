@@ -1,0 +1,46 @@
+.adonepagecmb_metabox .field-item {
+	position: relative;
+}
+
+.adonepagecmb_metabox_description { 
+	color: #AAA; 
+	font-style: italic; 
+	margin: 0 0 16px !important;
+}
+
+.adonepagecmb_metabox input[type=text], 
+.adonepagecmb_metabox textarea, 
+.adonepagecmb_metabox select { 
+	width: 100%;
+	margin: 0;
+}
+
+.adonepagecmb_metabox input.adonepagecmb_text_small { 
+	width: 100px; 
+}
+
+.adonepagecmb_metabox input.adonepagecmb_text_medium {
+	width: 230px; 
+	margin-right: 15px;
+}
+
+.adonepagecmb_metabox input[type="radio"] { 
+	margin: 0 5px 0 0; 
+	padding: 0;
+}
+
+.adonepagecmb_metabox input[type="checkbox"] { 
+	margin: 0 5px 0 0; 
+	padding: 0;
+}
+
+.adonepagecmb_metabox .field-title { 
+	margin-top: -4px; 
+	margin-bottom: 16px; 
+	margin-top: 0; 
+	font-weight: bold; 
+}
+
+.adonepagecmb_metabox .field-title label {
+	vertical-align: baseline;
+}

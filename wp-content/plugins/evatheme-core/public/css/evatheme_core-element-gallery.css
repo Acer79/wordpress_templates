@@ -1,0 +1,79 @@
+/**
+ * Element Evatheme Gallery Styles
+ */
+
+
+#page-content .wpb_gallery_images ul{
+	margin:0;
+	list-style:none;
+}
+#page-content .wpb_gallery_images.gallery_grid li{
+	margin-right:-1px;
+}
+#page-content .wpb_gallery_images li.col-sm-25{
+	float:left;
+	width:20%;
+}
+#page-content .wpb_gallery_images li a{
+	overflow:hidden;
+	position:relative;
+	display:block;
+}
+#page-content .wpb_gallery_images li a img{
+	width:100%;
+}
+
+#page-content .wpb_gallery_images .animated,
+#album_single_wrap.style_grid .animated,
+#album_single_wrap.style_masonry .animated,
+#album_single_wrap.style_half_width .animated{
+	-webkit-animation-duration: 1s;
+			animation-duration: 1s;
+
+	-webkit-animation-fill-mode: both;
+			animation-fill-mode: both;
+
+	opacity:0;
+}
+
+@-webkit-keyframes fadeInUp {
+	0% { opacity: 0; -webkit-transform: translateY(20px); transform: translateY(20px); }
+	100% { opacity: 1; -webkit-transform: translateY(0); transform: translateY(0); }
+}
+@keyframes fadeInUp {
+	0% { opacity: 0; -webkit-transform: translateY(20px); -ms-transform: translateY(20px); transform: translateY(20px); }
+	100% { opacity: 1; -webkit-transform: translateY(0); -ms-transform: translateY(0); transform: translateY(0); }
+}
+
+#page-content .wpb_gallery_images .fadeInUp,
+#album_single_wrap.style_grid .fadeInUp,
+#album_single_wrap.style_masonry .fadeInUp,
+#album_single_wrap.style_half_width .fadeInUp{
+	opacity:1;
+
+	-webkit-animation-name: fadeInUp;
+			animation-name: fadeInUp;
+}
+
+
+#page-content .wpb_gallery_images.gallery_metro .metro_item{
+	overflow: hidden;
+	width: 25%;
+	float: left;
+	margin-right:-1px;
+}
+#page-content .wpb_gallery_images.gallery_metro .metro_item.metro_width2,
+#page-content .wpb_gallery_images.gallery_metro .metro_item.metro_width2_height2{
+	width: 50%;
+	margin-right:-2px;
+}
+#page-content .wpb_gallery_images.gallery_metro .gallery_img_bg{
+	display:block;
+	background-size:cover;
+	background-position:center center;
+	background-repeat:no-repeat;
+	transition: opacity 0.3s ease-in-out;
+}
+#page-content .wpb_gallery_images.gallery_metro .metro_item:hover .gallery_img_bg{
+	opacity:0.5;
+}

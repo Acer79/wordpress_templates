@@ -1,0 +1,168 @@
+#wpcf7-f230-p171-o1 .wpcf7-form-control-wrap.text-761 {
+    margin-right: 4%;
+    width: 80%;
+}
+#wpcf7-f230-p171-o1 .ad_one_third {
+	color:#333333 !important;
+	font-size:18px !important;
+	font-weight:300 !important;
+}
+#wpcf7-f230-p171-o1 .wpcf7-form input {
+	height:50px !important;
+	background:none !important;
+	border:1px solid #999 !important;
+}
+#wpcf7-f230-p171-o1 select {
+	width:80% !important;
+	background:none !important;
+	border:1px solid #999 !important;
+	margin-top:5px !important;
+	height:50px !important;
+	border-radius:0 !important;
+}
+@media screen and (min-width: 1024px) {
+	#wpcf7-f230-p171-o1 .wpcf7-form-control.wpcf7-submit {
+		background:#FC615D !important;
+		color:#fff !important;
+		font-size:16px !important;
+		font-weight:300 !important;
+		margin-top:70px!important;
+		width:24.5%!important;
+	}
+}
+#wpcf7-f230-p171-o1 .wpcf7-form-control.wpcf7-submit:hover {
+	background:#DB5353 !important;
+}
+
+
+/*form technology*/
+
+
+
+#wpcf7-f253-p139-o1 .ad_one_third {
+	color:#333333 !important;
+	font-size:18px !important;
+	font-weight:300 !important;
+}
+#wpcf7-f253-p139-o1 .wpcf7-form input {
+	height:50px !important;
+	background:none !important;
+	border:1px solid #fff !important;
+	color:#fff;
+}
+#wpcf7-f253-p139-o1 .wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+	width:49% !important;
+	float:left !important;
+}
+
+#wpcf7-f253-p139-o1 .wpcf7-form-control.wpcf7-text.wpcf7-email {
+	width:49% !important;
+	margin-left:2% !important;
+}
+
+
+#wpcf7-f253-p139-o1 .wpcf7-textarea {
+	background:none !important;
+	border:1px solid #fff !important;
+	color:#fff !important;
+}
+#wpcf7-f253-p139-o1 select {
+	width:80% !important;
+	background:none !important;
+	border:1px solid #999 !important;
+	margin-top:5px !important;
+	height:50px !important;
+	border-radius:0 !important;
+}
+#wpcf7-f253-p139-o1 .wpcf7-form-control.wpcf7-submit {
+	background:#2f5b8a !important;
+	color:#fff !important;
+	font-size:16px !important;
+	font-weight:300 !important;
+	
+}
+#wpcf7-f253-p139-o1 .wpcf7-form-control.wpcf7-submit:hover {
+	background:#183f63 !important;
+}
+#wpcf7-f253-p139-o1 .wpcf7-form input.wpcf7-form-control.wpcf7-submit {
+	height:35px !important;
+}
+
+#wpcf7-f206-p72-o1 input, #wpcf7-f206-p72-o1 textarea {
+	color:#FFF!important;
+}
+
+/* CORPORATE 2 */
+#wpcf7-f411-p165-o1 input, #wpcf7-f411-p165-o1 textarea, #wpcf7-f206-p78-o1 input, #wpcf7-f206-p78-o1 textarea {
+	color:#FFF!important;
+}
+#wpcf7-f411-p165-o1 .wpcf7-form-control-wrap.text-761, .wpcf7-form-control-wrap.email,  {
+ width:48%;
+float:left;
+}
+#wpcf7-f411-p165-o1 .wpcf7-form-control-wrap.text-761 {
+margin-right:4%;
+}
+
+/* Form Personal */
+
+
+
+#wpcf7-f424-p139-o1 .ad_one_third {
+	color:#333333 !important;
+	font-size:18px !important;
+	font-weight:300 !important;
+}
+#wpcf7-f424-p139-o1 .wpcf7-form input {
+	height:50px !important;
+	background:none;
+	border:1px solid #fff !important;
+	color:#fff !important;
+}
+#wpcf7-f424-p139-o1 .wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+	width:49% !important;
+	float:left !important;
+}
+
+#wpcf7-f424-p139-o1 .wpcf7-form-control.wpcf7-text.wpcf7-email {
+	width:49% !important;
+	margin-left:2% !important;
+}
+
+
+#wpcf7-f424-p139-o1 .wpcf7-textarea {
+	background:none !important;
+	border:1px solid #fff !important;
+	color:#fff !important;
+}
+#wpcf7-f424-p139-o1 select {
+	width:80% !important;
+	background:none !important;
+	border:1px solid #999 !important;
+	margin-top:5px !important;
+	height:50px !important;
+	border-radius:0 !important;
+}
+#wpcf7-f424-p139-o1 .wpcf7-form-control.wpcf7-submit {
+	color:#fff !important;
+	font-size:16px !important;
+	font-weight:300 !important;
+	
+}
+#wpcf7-f424-p139-o1 .wpcf7-form input.wpcf7-form-control.wpcf7-submit {
+	height:35px !important;
+}
+
+/* CREATIVE */
+#wpcf7-f206-p70-o1 input {
+	color:#FFF!important;
+}
+.wpcf7 input {
+	color:#FFF!important;
+}
+
+/* BBPRESS */
+
+#wpcf7-f424-p404-o1 input {
+	color:#FFF!important;
+}

@@ -1,0 +1,77 @@
+* Group **/
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field > .field-title { 
+	font-size: 1.5em;
+	clear: left;
+	color: #464646;
+	font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",sans-serif;
+	font-weight: lighter;
+}
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field > .field-title h2 { 
+	margin: 8px 5px !important; 
+}
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field.repeatable > .field-item { 
+	padding: 30px 10px 0; 
+	margin-bottom: 16px; 
+	border: 1px solid #DDD; 
+	background: #FAFAFA; 
+	position: relative;
+}
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field.repeatable > .field-item:before {
+	content: ' ';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 33px;
+	border-bottom: 1px solid #DDDDDD;	
+}
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field.repeatable > .field-item > .adonepagecmb-delete-field { 
+	top: 5px;
+	right: 5px;
+	width: auto;
+	text-indent: 0;
+	padding-left: 24px;
+	padding-right: 8px;
+	height: 22px;
+	line-height: 20px;
+	font-size: 11px;
+	z-index: 1;
+}
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field.repeatable > .field-item > .adonepagecmb-delete-field .adonepagecmb-delete-field-icon { 
+	left: 12px;
+}
+
+
+.adonepagecmb_Group_Field.adonepagecmb-sortable > .field-item { 
+	position: relative; 
+	padding-top: 30px; 
+}
+
+.adonepagecmb_Group_Field.adonepagecmb-sortable > .field-item > .adonepagecmb-handle { 
+	top: -1px; 
+	left: -1px; 
+	right: -1px; 
+	height: 34px; 
+	width: auto; 
+	border: none;
+	border-bottom: 1px solid #DDDDDD;
+}
+
+.adonepagecmb_Group_Field.adonepagecmb-sortable > .field-item.ui-sortable-helper > .adonepagecmb-handle { 
+	padding: 0 5px;
+}
+
+.adonepagecmb_metabox .adonepagecmb_Group_Field.repeatable.adonepagecmb-sortable > .field-item:before {
+	display: none !important;
+}
+
+.adonepagecmb_Group_Field.adonepagecmb-sortable > .ui-sortable-placeholder { 
+	margin-bottom: 16px !important;
+}

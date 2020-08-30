@@ -1,0 +1,82 @@
+/* CSS Document 
+File: backend.css
+Description: Css classes for backend views
+Plugin: ADTHEME SHORTCODES
+Author: Ad-theme.com
+*/
+
+.adonepage-shortcode-list .span4 {
+	width:33%;
+	float:left;
+	padding:5px;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box; /* Firefox */
+}
+.adonepage-shortcode-list .clear {
+	clear:both;
+}
+.adonepage-shortcode-list .style1 .span4 {
+	color:#09C;
+}
+.adonepage-shortcode-list .style2 .span4 {
+	color:#F30;
+}
+.adonepage-shortcode-list .style3 .span4 {
+	color:#63C;
+}
+.adonepage-shortcode-list .style4 .span4 {
+	color:#F93;
+}
+textarea.large {
+	width:50%;
+	height:300px;
+}
+
+#adonepage_sectionid label {
+	cursor:default;
+	width:40%;
+	display:inline-block;
+}
+#adonepage_sectionid label#ad_postpreview_show_shortcode {
+	padding:20px;
+	background:#DBDBDB;
+	display:block;
+	width:100%;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+#adonepage_sectionid .shortcode-value {
+	font-weight:bold;
+}
+
+#adonepage-generator-overlay{width:100%; height:100%; left:0px; position:fixed; top:0px; z-index: 159900;}
+.adonepage-overlay-bg{background-color: #000000; opacity: 0.75;}
+#adonepage-generator-wrap {top:30px; right:30px; left:30px; bottom:30px; display: none; position: fixed; background: #fff; min-width:660px; min-height:600px; z-index: 160000; overflow:auto;}
+#adonepage-generator {margin:0; padding:20px; overflow: auto;}
+.adonepage-close {
+	float:right;
+	font-size:50px;
+	color:#000;
+}
+#adonepage-generator-insert {
+	margin-left:20px;
+}
+h2.adonepage-title {
+	text-align:center;
+	background:#09C;
+}
+
+/* Icons list */
+.adonepage-icon-select ul {width:100%; min-height:250px; max-height:300px; overflow:auto; display:inline-block; margin-top:10px; padding:0; border:1px solid #ccc;}
+.adonepage-icon-select li{display:inline-block; list-style:none; padding:0; margin:0;}
+.adonepage-icon-select li label {color:#777777; display:inline-block !important; float:none !important; width:35px !important; text-align:center; font-size:23px !important; font-weight:normal !important; padding:5px 0 !important; margin:3px; border:1px solid #eee !important;}
+.adonepage-icon-select li label:hover {background:#eee; border:1px solid #ccc !important; cursor: pointer;}
+.adonepage-icon-select li input[type="radio"]:checked+label {background:#B1CFFF; border: 1px solid #415D79 !important; color:#365288;}
+.adonepage-icon-select input{display:none;}
+
+.adonepage-icon-list-select ul {width:100%; min-height:250px; max-height:300px; overflow:auto; display:inline-block; margin-top:10px; padding:0; border:1px solid #ccc;}
+.adonepage-icon-list-select li{display:inline-block; list-style:none; padding:0; margin:0;}
+.adonepage-icon-list-select li label {color:#777777; display:inline-block !important; float:none !important; width:35px !important; text-align:center; font-size:23px !important; font-weight:normal !important; padding:5px 0 !important; margin:3px; border:1px solid #eee !important;}
+.adonepage-icon-list-select li label:hover {background:#eee; border:1px solid #ccc !important; cursor: pointer;}
+.adonepage-icon-list-select li input[type="radio"]:checked+label {background:#B1CFFF; border: 1px solid #415D79 !important; color:#365288;}
+.adonepage-icon-list-select input{ height: 30px;margin-right: -50px;opacity: 0;position: relative;width: 50px;z-index: 2;}

@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+/* Redux Custom styles */
+.theme-browser #wbc_demo_importer-custom_imports.theme .theme-actions,
+.theme-browser #wbc_demo_importer-custom_imports.theme.active .theme-actions{
+	top:100%;
+	-webkit-transform: translateY(-100%);
+	transform: translateY(-100%);
+}

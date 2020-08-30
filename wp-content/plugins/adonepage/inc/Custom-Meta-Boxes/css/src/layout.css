@@ -1,0 +1,57 @@
+/** adonepagecmb Layout **/
+
+.adonepagecmb_metabox .field { 
+	overflow: hidden;
+	padding: 16px 0;
+	border-bottom: 1px solid #DFDFDF;
+}
+
+.adonepagecmb-row:last-child > [class*="adonepagecmb-cell-"]  > .field { 
+	border-bottom: 0; 
+}
+
+/* Neaten up the margins when metaboxes are within the standard postbox. */
+.postbox > .inside > .adonepagecmb_metabox {
+	margin: -10px 0; 
+}
+
+.adonepagecmb_metabox .adonepagecmb-row { 
+	overflow: hidden; 
+	margin: 0 -5px; 
+	zoom: 1;
+}
+
+.adonepagecmb_metabox .adonepagecmb-row:before,
+.adonepagecmb_metabox .adonepagecmb-row:after {
+	content: "";
+	display: table;
+} 
+.adonepagecmb_metabox .adonepagecmb-row:after {
+	clear: both;
+}
+
+.adonepagecmb_metabox [class*="adonepagecmb-cell-"] { 
+	float: left; 
+	padding: 0 5px;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.adonepagecmb_metabox .adonepagecmb-cell-1  { width: 8.333333333%; }
+.adonepagecmb_metabox .adonepagecmb-cell-2  { width: 16.666666667%; }
+.adonepagecmb_metabox .adonepagecmb-cell-3  { width: 25%; }
+.adonepagecmb_metabox .adonepagecmb-cell-4  { width: 33.333333333%; }
+.adonepagecmb_metabox .adonepagecmb-cell-5  { width: 41.666666667%; }
+.adonepagecmb_metabox .adonepagecmb-cell-6  { width: 50%; }
+.adonepagecmb_metabox .adonepagecmb-cell-7  { width: 58.333333333%; }
+.adonepagecmb_metabox .adonepagecmb-cell-8  { width: 66.666666667%; }
+.adonepagecmb_metabox .adonepagecmb-cell-9  { width: 75%; }
+.adonepagecmb_metabox .adonepagecmb-cell-10 { width: 83.333333333%; }
+.adonepagecmb_metabox .adonepagecmb-cell-11 { width: 91.666666667%; }
+.adonepagecmb_metabox .adonepagecmb-cell-12 { width: 100%; }
+
+@media all and ( max-width: 850px ) {
+
+	.adonepagecmb_metabox [class*="adonepagecmb-cell-"] { width: 100%; }
+
+}

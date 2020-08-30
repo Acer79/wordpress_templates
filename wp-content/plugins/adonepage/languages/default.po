@@ -1,0 +1,1159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AD Post Preview\n"
+"POT-Creation-Date: 2014-05-22 02:38+0100\n"
+"PO-Revision-Date: 2014-05-22 02:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: AD-Theme <support@ad-theme.com>\n"
+"Language: ENG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/functions-menu.php:79 ../inc/functions-menu.php:83
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../inc/functions.php:12 ../inc/functions.php:29
+msgid "Shortcode"
+msgstr ""
+
+#: ../inc/functions.php:28
+msgid "Preview Name"
+msgstr ""
+
+#: ../inc/functions.php:30
+msgid "Date"
+msgstr ""
+
+#: ../inc/functions.php:91 ../inc/functions.php:106 ../inc/functions.php:120
+#: ../inc/functions.php:134 ../inc/functions.php:148
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../inc/functions.php:218
+#: ../inc/shortcodes/functions/shortcodes-social.php:115
+msgid "Click to share this post on Facebook"
+msgstr ""
+
+#: ../inc/functions.php:219
+#: ../inc/shortcodes/functions/shortcodes-social.php:120
+msgid "Click to share this post on Twitter"
+msgstr ""
+
+#: ../inc/functions.php:220
+#: ../inc/shortcodes/functions/shortcodes-social.php:125
+msgid "Click to share this post on Google+"
+msgstr ""
+
+#: ../inc/functions.php:221
+#: ../inc/shortcodes/functions/shortcodes-social.php:130
+msgid "Click to share this post on Linkedin"
+msgstr ""
+
+#: ../inc/functions.php:222
+#: ../inc/shortcodes/functions/shortcodes-social.php:135
+msgid "Click to share this post on Pinterest"
+msgstr ""
+
+#: ../inc/functions.php:257
+msgid "Views"
+msgstr ""
+
+#: ../inc/functions.php:301
+msgid "AD One Page Menu"
+msgstr ""
+
+#: ../inc/functions.php:310
+msgid "AD One Page Menu "
+msgstr ""
+
+#: ../inc/functions.php:322
+msgid "ADONEPAGE FOOTER 1"
+msgstr ""
+
+#: ../inc/functions.php:324
+msgid "Adonepage footer 1"
+msgstr ""
+
+#: ../inc/functions.php:333
+msgid "ADONEPAGE FOOTER 2"
+msgstr ""
+
+#: ../inc/functions.php:335
+msgid "Adonepage footer 2"
+msgstr ""
+
+#: ../inc/functions.php:344
+msgid "ADONEPAGE FOOTER 3"
+msgstr ""
+
+#: ../inc/functions.php:346
+msgid "Adonepage footer 3"
+msgstr ""
+
+#: ../inc/functions.php:356
+msgid "ADONEPAGE FOOTER 4"
+msgstr ""
+
+#: ../inc/functions.php:358
+msgid "Adonepage footer 4"
+msgstr ""
+
+#: ../inc/menus.php:13 ../inc/metaboxes.php:17
+msgid "AD ONE PAGE"
+msgstr ""
+
+#: ../inc/menus.php:13
+msgid "Settings"
+msgstr ""
+
+#: ../inc/metaboxes.php:32
+msgid "Select Landing Page"
+msgstr ""
+
+#: ../inc/posttype.php:21 ../inc/posttype.php:45
+msgid "AD ONEPAGE"
+msgstr ""
+
+#: ../inc/posttype.php:23
+msgid "AD ONEPAGE Panel"
+msgstr ""
+
+#: ../inc/posttype.php:25 ../inc/posttype.php:27
+msgid "Add New ONE PAGE"
+msgstr ""
+
+#: ../inc/posttype.php:29
+msgid "Edit ONE PAGE"
+msgstr ""
+
+#: ../inc/posttype.php:31
+msgid "New ONE PAGE"
+msgstr ""
+
+#: ../inc/posttype.php:33
+msgid "All ONE PAGE"
+msgstr ""
+
+#: ../inc/posttype.php:35
+msgid "View ONE PAGE"
+msgstr ""
+
+#: ../inc/posttype.php:37
+msgid "Search ONE PAGE"
+msgstr ""
+
+#: ../inc/posttype.php:39
+msgid "No ONE PAGE found"
+msgstr ""
+
+#: ../inc/posttype.php:41
+msgid "No ONE PAGE found in Trash"
+msgstr ""
+
+#: ../inc/settings.php:15
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../inc/settings.php:43
+msgid "Number Menu Wordpress: "
+msgstr ""
+
+#: ../inc/settings.php:45
+msgid ""
+"With this option you can create n wp menu (aspects -> menu) for n ADOnePage: "
+msgstr ""
+
+#: ../inc/settings.php:47
+msgid "Enter Number Menu (ex: 5): "
+msgstr ""
+
+#: ../inc/settings.php:52
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/Custom-Meta-Boxes/classes.fields.php:1011
+msgid "Type to search"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:6
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:26
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:26
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:10
+msgid "Opacity (from 0.1 to 1)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:14
+msgid "Width (ex 200px or leave empty for 100%)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:18
+msgid "Height (ex 200px or leave empty for auto)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:22
+#: ../inc/shortcodes/editor/shortcodes-icon.php:47
+msgid "Margin (ex 2px or 2px 2px 2px 2px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:26
+#: ../inc/shortcodes/editor/shortcodes-icon.php:51
+msgid "Padding (ex 2px or 2px 2px 2px 2px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:30
+msgid "Border Size (ex 1px or 1px 1px 2px 2px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:34
+#: ../inc/shortcodes/editor/shortcodes-typography.php:62
+msgid "Border Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-box.php:38
+#: ../inc/shortcodes/editor/shortcodes-typography.php:66
+msgid "Border Type"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:5
+#: ../inc/shortcodes/editor/shortcodes-map.php:5
+#: ../inc/shortcodes/editor/shortcodes-typography.php:5
+msgid "Tag"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:17
+msgid "Padding (ex: 10px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:21
+msgid "Margin (ex: 10px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:25
+msgid "Border Radius (ex: 10px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:29
+msgid "Button Font Size (ex: 10px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:33
+msgid "Button Text/Image Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:37
+msgid "Background Button Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:41
+msgid "Background Button Color Over"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:45
+#: ../inc/shortcodes/editor/shortcodes-typography.php:90
+msgid "Opacity (0.1 to 1)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:49
+#: ../inc/shortcodes/editor/shortcodes-typography.php:98
+msgid "Responsive Important (This Value is valid for size field responsive)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:67
+msgid "Button Content"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:78
+msgid "Button Image"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:130
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:136
+msgid "Link"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-button.php:140
+msgid "Target Link"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:7
+#: ../inc/shortcodes/editor/shortcodes-qtrotator.php:7
+msgid "Content Source"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:20
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:7
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:7
+#: ../inc/shortcodes/editor/shortcodes-posts-slider.php:7
+#: ../inc/shortcodes/editor/shortcodes-qtrotator.php:19
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:17
+msgid "Select Category (Multiple category is allowed)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:22
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:9
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:9
+#: ../inc/shortcodes/editor/shortcodes-posts-slider.php:9
+#: ../inc/shortcodes/editor/shortcodes-qtrotator.php:21
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:19
+msgid "All"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:37
+msgid "Style: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:40
+msgid "Style Team 1"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:41
+msgid "Style Team 2"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:42
+msgid "Style Partners"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:46
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:107
+#: ../inc/shortcodes/editor/shortcodes-posts-slider.php:30
+#: ../inc/shortcodes/editor/shortcodes-qtrotator.php:44
+msgid "Number Text Excerpt: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:51
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:39
+msgid "Lazy Load Effects: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:54
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:42
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:42
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:82
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:89
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:96
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:103
+#: ../inc/shortcodes/editor/shortcodes-social.php:81
+#: ../inc/shortcodes/editor/shortcodes-social.php:88
+#: ../inc/shortcodes/editor/shortcodes-social.php:95
+#: ../inc/shortcodes/editor/shortcodes-social.php:102
+#: ../inc/shortcodes/editor/shortcodes-social.php:109
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:42
+msgid "Yes"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:55
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:43
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:43
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:69
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:83
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:90
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:97
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:104
+#: ../inc/shortcodes/editor/shortcodes-social.php:82
+#: ../inc/shortcodes/editor/shortcodes-social.php:89
+#: ../inc/shortcodes/editor/shortcodes-social.php:96
+#: ../inc/shortcodes/editor/shortcodes-social.php:103
+#: ../inc/shortcodes/editor/shortcodes-social.php:110
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:43
+msgid "No"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:58
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:46
+msgid "Navigation Button: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:61
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:49
+msgid "Show"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:62
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:50
+msgid "Hidden"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:65
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:53
+msgid "Item Show: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:69
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:22
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:22
+#: ../inc/shortcodes/editor/shortcodes-posts-slider.php:22
+#: ../inc/shortcodes/editor/shortcodes-qtrotator.php:36
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:57
+msgid "Number Post Load (Default 8): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:73
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:61
+msgid "Autoplay, ex 3000 (leave empty for no autoplay): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:77
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:65
+msgid "Pagination Speed, ex 1000 (leave empty for default): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:81
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:69
+msgid "Go To First Speed, ex 2000 (leave empty for default): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:85
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:73
+msgid "TransitionStyle: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:88
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:76
+msgid "Fade"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:89
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:77
+msgid "BackSlide"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:90
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:78
+msgid "GoDown"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-carousel.php:91
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:79
+msgid "ScaleUp"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:7
+msgid "Type Charts"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:16
+msgid "Bar Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:20
+msgid "Track Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:24
+msgid "Percent"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:36
+msgid "Width (ex 300): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:44
+msgid "Width (ex 300 or leave empty for 100%): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-charts.php:48
+msgid "Style"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-columns.php:5
+msgid "Columns"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-countdown.php:5
+msgid "Year (format: YYYY)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-countdown.php:9
+msgid "Month (format: MM)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-countdown.php:13
+msgid "Day (format: DD)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-effects.php:5
+msgid "Type Effects"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-effects.php:15
+msgid "Animated Effects"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-effects.php:118
+#: ../inc/shortcodes/editor/shortcodes-typography.php:146
+msgid "Align"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:30
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:30
+#: ../inc/shortcodes/editor/shortcodes-typography.php:44
+msgid "Font Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:34
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:34
+msgid "Item Padding"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:39
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:39
+msgid "Show Filter: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:46
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:46
+msgid "Filter Position: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:49
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:49
+msgid "Left"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:50
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:50
+msgid "Right"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:51
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:51
+msgid "Center"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:54
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:54
+msgid "Columns: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:57
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:57
+msgid "2"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:58
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:58
+msgid "3"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:59
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:59
+msgid "4"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:60
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:60
+msgid "5"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-gallery.php:61
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:61
+msgid "6"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-icon.php:4
+msgid "Select Icon"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-icon.php:35
+msgid "Icon Size (ex: 20px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-icon.php:39
+msgid "Icon Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-icon.php:43
+msgid "Icon Color Over"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-icon.php:55
+msgid "Float"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-lists.php:5
+msgid "List Type"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-lists.php:13
+msgid "Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-map.php:16
+msgid "Latitude"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-map.php:20
+msgid "Longitude"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-map.php:24
+msgid "Zoom"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-map.php:51
+msgid "Map Width (ex: 400px or 100%)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-map.php:55
+msgid "Map Height (ex: 400px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-map.php:59
+msgid "Message"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-onscroll.php:5
+#: ../inc/shortcodes/editor/shortcodes-social.php:5
+msgid "Type"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-onscroll.php:17
+#: ../inc/widget/widget-facebook.php:132
+msgid "Title"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-onscroll.php:21
+#: ../inc/shortcodes/editor/shortcodes-typography.php:120
+msgid "Text"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-onscroll.php:25
+msgid "Url Image"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:64
+msgid "Link Post/URL: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:67
+msgid "Post"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:68
+msgid "URL"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:72
+msgid "Link Target: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:75
+msgid "Blank"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:76
+msgid "Self"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:79
+msgid "Title: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:86
+msgid "Category: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:93
+msgid "Date: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-portfolio.php:100
+msgid "Text: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-posts-slider.php:26
+#: ../inc/shortcodes/editor/shortcodes-qtrotator.php:40
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:14
+msgid "Color: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:18
+msgid "Font Size (ex 12px): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:22
+msgid "Margin (ex 12px or 12px 0 12px 0): "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:29
+msgid "Facebook Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:33
+msgid "Twitter Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:37
+msgid "Linkedin Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:41
+msgid "Google Plus Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:45
+msgid "Pinterest Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:49
+msgid "Youtube Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:53
+msgid "Flickr Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:57
+msgid "Tumblr Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:61
+msgid "Rss Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:65
+msgid "Vimeo Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:69
+msgid "Contact Link (Leave empty if you want disable)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:78
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:85
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:92
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:99
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-social.php:106
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:23
+msgid "Font Size (ex 12px)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:27
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:48
+msgid "Font Style"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:57
+msgid "Border Size (ex 2px or 2px 0 2px 0)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:81
+msgid "Padding (ex 2px or 2px 0 2px 0)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:85
+msgid "Background"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:94
+msgid "Line Height (ex: 30px - leave empty for default)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:128
+msgid "Line Color"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:132
+msgid "Line Height"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:142
+msgid "Line Width (ex 300 or leave empty for 100%)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:156
+msgid "Margin Top"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:166
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:176
+msgid "Line Type"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-typography.php:195
+msgid "Empty Line Height (ex 50)"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:7
+msgid "Woocommerce Shortcodes Type"
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:35
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:86
+msgid "Main Color: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:90
+msgid "Number Product: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:95
+msgid "Column: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:104
+msgid "Infinite Scroll: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes-woocommerce.php:111
+msgid "description: "
+msgstr ""
+
+#: ../inc/shortcodes/editor/shortcodes.php:32
+msgid "Choose Shortcodes"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:33
+#: ../inc/shortcodes/functions/general.php:34
+msgid "AD Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:35
+#: ../inc/shortcodes/functions/general.php:36
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:37
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:38
+msgid "New Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:39
+msgid "All Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:40
+msgid "View Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:41
+msgid "Search Gallery"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:42
+msgid "No Gallery found"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:43
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:45
+msgid "AD GALLERY"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:80
+#: ../inc/shortcodes/functions/general.php:81
+#: ../inc/shortcodes/functions/general.php:90
+msgid "Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:82
+msgid "Search Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:83
+msgid "All Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:84
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:85
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:86
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:87
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:88
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:89
+msgid "New Gallery Category"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:110
+#: ../inc/shortcodes/functions/general.php:111
+msgid "Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:112
+#: ../inc/shortcodes/functions/general.php:113
+msgid "Add New User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:114
+msgid "Edit User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:115
+msgid "New User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:116
+msgid "All User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:117
+msgid "View User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:118
+msgid "Search User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:119
+msgid "No User Team"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:120
+msgid "No User Team in Trash"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:122
+msgid "TEAM"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:153
+#: ../inc/shortcodes/functions/general.php:154
+msgid "Clients"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:155
+#: ../inc/shortcodes/functions/general.php:156
+msgid "Add New Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:157
+msgid "Edit Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:158
+msgid "New Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:159
+msgid "All Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:160
+msgid "View Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:161
+msgid "Search Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:162
+msgid "No Client"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:163
+msgid "No Client in Trash"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:165
+msgid "CLIENT"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:196
+#: ../inc/shortcodes/functions/general.php:197
+msgid "Partners"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:198
+#: ../inc/shortcodes/functions/general.php:199
+msgid "Add New Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:200
+msgid "Edit Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:201
+msgid "New Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:202
+msgid "All Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:203
+msgid "View Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:204
+msgid "Search Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:205
+msgid "No Partner"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:206
+msgid "No Partner in Trash"
+msgstr ""
+
+#: ../inc/shortcodes/functions/general.php:208
+msgid "PARTNERS"
+msgstr ""
+
+#: ../inc/shortcodes/functions/metaboxes.php:17
+msgid "ADTHEME SHORTCODES OPTIONS"
+msgstr ""
+
+#: ../inc/shortcodes/functions/metaboxes.php:36
+msgid "URL "
+msgstr ""
+
+#: ../inc/shortcodes/functions/shortcodes-posts-slider.php:72
+msgid "Read More"
+msgstr ""
+
+#: ../inc/shortcodes/functions/shortcodes-woocommerce.php:108
+#: ../inc/shortcodes/functions/shortcodes-woocommerce.php:264
+msgid "Sale"
+msgstr ""
+
+#: ../inc/shortcodes/functions/shortcodes-woocommerce.php:285
+msgid "Description Product"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1174
+#: ../inc/widget/twitteroauth.php:1174
+msgid " right now"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1176
+#: ../inc/widget/twitteroauth.php:1176
+msgid " seconds ago"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1178
+#: ../inc/widget/twitteroauth.php:1178
+msgid " about 1 minute ago"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1180
+#: ../inc/widget/twitteroauth.php:1180
+msgid " minutes ago"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1182
+#: ../inc/widget/twitteroauth.php:1182
+msgid " about 1 hour ago"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1184
+#: ../inc/widget/twitteroauth.php:1184
+msgid " hours ago"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1186
+#: ../inc/widget/twitteroauth.php:1186
+msgid " yesterday"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1188
+#: ../inc/widget/twitteroauth.php:1188
+msgid " days ago"
+msgstr ""
+
+#: ../inc/shortcodes/functions/twitteroauth.php:1190
+#: ../inc/widget/twitteroauth.php:1190
+msgid " over a year ago"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:108
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:110
+msgid "https://www.facebook.com/pages/Envato-VN/146813722177889?fref=ts"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:140
+msgid "Page Url"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:148
+msgid "Show Header"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:152
+msgid "Show Stream"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:156
+msgid "Show Faces"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:163
+msgid "Box Height"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:171
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/widget/widget-facebook.php:183
+msgid "Iframe CSS"
+msgstr ""
+
+#: ../inc/widget/widget-flickr.php:91
+msgid "52617155@N08"
+msgstr ""
+
+#: ../inc/widget/widget-flickr.php:93
+msgid "Flickr"
+msgstr ""
